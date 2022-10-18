@@ -1,0 +1,3 @@
+displayName = A Mod About Something
+author = Tomman
+version = 0.1
